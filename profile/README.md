@@ -78,7 +78,3 @@ hummingbot, humming bot, hummingbot mac, hummingbot download, hummingbot windows
 Download Hummingbot for MacOS and Windows - Open-source algorithmic trading platform with market making strategies, arbitrage trading, and automated execution.
 
 Get Hummingbot trading platform for MacOS and Windows - Professional crypto automation software with algorithmic strategies, cross-exchange trading, and custom bot development.
-
----
-
-*Ensure your system meets the specified requirements for optimal performance. Regular updates provide enhanced exchange integrations and new trading strategies.*
